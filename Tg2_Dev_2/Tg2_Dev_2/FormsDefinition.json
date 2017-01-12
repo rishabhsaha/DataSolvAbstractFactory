@@ -1,0 +1,12 @@
+﻿{
+  "FormName": "DailyReport",
+  "Fields": [
+    {
+      "FieldType": "Label",
+      "Text": "ReadPh"
+    },
+    {
+      "FieldType": "Entry",
+    }
+  ]
+}
